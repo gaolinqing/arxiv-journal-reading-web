@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>arXiv + PRL Reading Queue</title>
+    <link rel="stylesheet" href="src/style.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Daily papers</p>
+        <h1>arXiv+Journal</h1>
+      </div>
+      <button id="refreshButton" class="icon-button" type="button" aria-label="Reload papers" title="Reload papers">↻</button>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Paper filters">
+        <div id="dateTabs" class="tabs date-tabs" role="tablist" aria-label="Dates"></div>
+
+        <div class="tabs source-tabs" role="tablist" aria-label="Sources">
+          <button class="tab is-active" type="button" data-filter="all">All</button>
+          <button class="tab" type="button" data-filter="astro-ph.HE">astro-ph.HE</button>
+          <button class="tab" type="button" data-filter="hep-ph">hep-ph</button>
+          <button class="tab" type="button" data-filter="prl">PRL</button>
+        </div>
+
+        <div class="tabs liked-tabs" role="tablist" aria-label="Saved papers">
+          <button class="tab liked-tab" type="button" data-filter="liked">Liked</button>
+        </div>
+
+        <label class="search-box">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="title, author, abstract" />
+        </label>
+      </section>
+
+      <section class="summary" aria-live="polite">
+        <div>
+          <strong id="paperCount">0</strong>
+          <span>papers shown</span>
+        </div>
+        <div>
+          <strong id="likedCount">0</strong>
+          <span>liked</span>
+        </div>
+        <button id="exportButton" class="secondary-button" type="button">Export CSV</button>
+      </section>
+
+      <section id="status" class="status" hidden></section>
+      <section id="paperList" class="paper-list" aria-label="Paper list"></section>
+      <section id="likedTableSection" class="liked-section" hidden>
+        <h2>Liked papers</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>ID / DOI</th>
+                <th>Authors</th>
+                <th>Source</th>
+                <th>Link</th>
+              </tr>
+            </thead>
+            <tbody id="likedTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <template id="paperTemplate">
+      <article class="paper-card">
+        <div class="paper-meta">
+          <span class="source-pill"></span>
+          <span class="date-text"></span>
+        </div>
+        <h2 class="paper-title"></h2>
+        <p class="authors"></p>
+        <p class="abstract"></p>
+        <div class="actions">
+          <button class="like-button" type="button">Like</button>
+          <button class="dislike-button" type="button">Dislike</button>
+          <button class="hide-button" type="button">Hide</button>
+          <a class="read-link" target="_blank" rel="noopener">Read</a>
+          <a class="pdf-link" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="src/app.js" defer></script>
+  </body>
+</html>

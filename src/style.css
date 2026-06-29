@@ -1,0 +1,388 @@
+:root {
+  color-scheme: light;
+  --bg: #f7f8f5;
+  --panel: #ffffff;
+  --ink: #18211f;
+  --muted: #60706a;
+  --line: #dbe1dc;
+  --accent: #116a5c;
+  --accent-strong: #094a40;
+  --liked: #b7532d;
+  --liked-strong: #7f351c;
+  --warn: #9a4d18;
+  --danger: #8a2932;
+  --shadow: 0 8px 22px rgba(24, 33, 31, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.5;
+}
+
+button,
+input,
+a {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px clamp(16px, 4vw, 32px);
+  background: rgba(247, 248, 245, 0.94);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(14px);
+}
+
+.eyebrow {
+  margin: 0 0 2px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+h1,
+h2,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-size: clamp(1.35rem, 4vw, 2rem);
+  line-height: 1.1;
+}
+
+main {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  padding: 16px clamp(14px, 4vw, 32px) 48px;
+}
+
+.toolbar {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.tabs {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  scrollbar-width: none;
+}
+
+.date-tabs {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  overflow: visible;
+}
+
+.tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.tab,
+.secondary-button,
+.icon-button,
+.actions button,
+.actions a {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.tab {
+  flex: 0 0 auto;
+  min-height: 38px;
+  padding: 8px 12px;
+  white-space: nowrap;
+}
+
+.date-tab {
+  min-width: 0;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.tab.is-active {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: white;
+}
+
+.tab:disabled {
+  background: #eef1ee;
+  border-color: #d8ded9;
+  color: #98a39e;
+  cursor: not-allowed;
+}
+
+.liked-tabs {
+  margin-top: -2px;
+}
+
+.liked-tab {
+  border-color: #e0b9a7;
+  background: #fff4ee;
+  color: var(--liked-strong);
+  font-weight: 700;
+}
+
+.liked-tab.is-active {
+  border-color: var(--liked);
+  background: var(--liked);
+  color: white;
+}
+
+.icon-button {
+  width: 42px;
+  height: 42px;
+  font-size: 1.35rem;
+}
+
+.search-box {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.search-box input {
+  width: 100%;
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px 12px;
+  background: var(--panel);
+  color: var(--ink);
+}
+
+.summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 10px 0 16px;
+  color: var(--muted);
+}
+
+.summary div {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 5px;
+  min-height: 36px;
+  padding: 6px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.summary strong {
+  color: var(--ink);
+}
+
+.secondary-button {
+  min-height: 36px;
+  padding: 6px 12px;
+}
+
+.status {
+  margin: 18px 0;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--muted);
+  overflow-wrap: anywhere;
+}
+
+.status a {
+  color: var(--accent-strong);
+  font-weight: 700;
+}
+
+.journal-links {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.paper-list {
+  display: grid;
+  gap: 14px;
+}
+
+.paper-card {
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+}
+
+.paper-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.source-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 26px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: #e6f1ee;
+  color: var(--accent-strong);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.date-text,
+.authors {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.paper-title {
+  margin-bottom: 8px;
+  font-size: clamp(1.02rem, 3.8vw, 1.3rem);
+  line-height: 1.28;
+}
+
+.authors {
+  margin-bottom: 10px;
+}
+
+.abstract {
+  margin-bottom: 14px;
+  color: #2b3633;
+}
+
+.actions {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.actions button,
+.actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 8px 9px;
+  text-align: center;
+}
+
+.like-button.is-selected {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: white;
+}
+
+.dislike-button.is-selected {
+  border-color: var(--warn);
+  background: #fff2e8;
+  color: var(--warn);
+}
+
+.hide-button {
+  color: var(--danger);
+}
+
+.liked-section {
+  margin-top: 24px;
+}
+
+.liked-section h2 {
+  font-size: 1.1rem;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+table {
+  width: 100%;
+  min-width: 720px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+  font-size: 0.9rem;
+}
+
+th {
+  color: var(--muted);
+  font-weight: 700;
+}
+
+td a {
+  color: var(--accent-strong);
+}
+
+@media (min-width: 740px) {
+  .toolbar {
+    grid-template-columns: 1fr 280px;
+    align-items: end;
+  }
+
+  .date-tabs {
+    grid-column: 1 / -1;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .source-tabs,
+  .liked-tabs {
+    grid-column: 1 / -1;
+  }
+
+  .paper-card {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 520px) {
+  .actions {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .actions .read-link,
+  .actions .pdf-link {
+    grid-column: span 1;
+  }
+}
