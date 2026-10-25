@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T04:44:09+00:00",
-  "local_date": "2026-10-24",
+  "generated_at": "2026-10-25T04:50:47+00:00",
+  "local_date": "2026-10-25",
   "time_windows": {
-    "today": "2026-10-24",
+    "today": "2026-10-25",
     "week_days": 7
   },
   "sources": {
@@ -3457,137 +3457,6 @@
       "updated": "2026-10-19",
       "url": "http://arxiv.org/abs/2610.25674v1",
       "pdf_url": "https://arxiv.org/pdf/2610.25674v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.25514v1",
-      "title": "Hyperonic Direct-Urca Neutrino Emission with Lattice-QCD-Informed Form Factors",
-      "authors": [
-        "Andreas Konstantinou"
-      ],
-      "abstract": "We investigate the sensitivity of direct-Urca neutrino emission in hyperonic neutron-star matter to the structure and momentum dependence of baryonic transition form factors. Using the zero-temperature FSU2H relativistic mean-field equation of state, we derive the relativistic emissivity for general spin-$1/2$ baryon transitions with the complete six form-factor contribution. We compare conventional static flavor-SU(3) couplings with vacuum lattice-QCD-informed form factors, using direct lattice vacuum input for $n\\rightarrow p$ and $Λ\\rightarrow p$ and a hybrid construction for the remaining hyperonic channels. Evaluating the latter both at $q^2=0$ and at the kinetic momentum transfer sampled at the Fermi surfaces separates changes in the zero-momentum couplings from momentum-transfer effects. The sensitivity is strongly channel dependent. The nucleonic transition probes $q^2\\simeq0$ and is only weakly affected, whereas hyperonic channels can sample substantially larger momentum transfers and receive correspondingly larger corrections. These modifications propagate to the integrated neutrino luminosity of stellar configurations. Our results estimate the possible scale of the sensitivity coming from momentum transfer dependence, absent from static-coupling treatments and motivate future first-principles studies of baryonic weak currents in dense matter.",
-      "published": "2026-10-18",
-      "updated": "2026-10-18",
-      "url": "http://arxiv.org/abs/2610.25514v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.25514v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.25427v1",
-      "title": "Statistical Analysis of Neutron Star Cooling: Implications for the Nuclear Equation of State and Nucleon Pairing",
-      "authors": [
-        "Afonso Ávila",
-        "Ricardo Z. Ferreira",
-        "Violetta Sagun"
-      ],
-      "abstract": "We perform a statistical analysis of the thermal evolution of isolated neutron stars by confronting theoretical cooling curves with luminosity-age measurements for 24 sources. For each object, we explore five purely nucleonic equations of state (APR4, FSU2R, DD2, IST, and NL3$ωρ$) combined with representative models of neutron superfluidity and proton superconductivity, while varying the gravitational mass and envelope composition. The analysis spans approximately $10^5$ cooling curves. Within this framework, we find that only the NL3$ωρ$ equation of state and, to a lesser extent, IST, both including neutron triplet pairing, provide an overall satisfactory description of the data. The remaining equations of state are in significant tension with the observations. These results demonstrate that NS cooling provides complementary constraints on dense matter, alongside nuclear structure, global NS observables, and gravitational-wave observations, while probing the interplay between the EoS and nucleon pairing.",
-      "published": "2026-10-18",
-      "updated": "2026-10-18",
-      "url": "http://arxiv.org/abs/2610.25427v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.25427v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.25214v1",
-      "title": "Lorentz-Invariance Violation with neutrinos from gamma-ray bursts using IceCube High-Energy Starting Events 12-year dataset",
-      "authors": [
-        "Mathieu Lamoureux",
-        "José Manuel Carmona",
-        "José Luis Cortés",
-        "Ardit Gkioni",
-        "Antoine Kouchner",
-        "Maykoll A. Reyes"
-      ],
-      "abstract": "High-energy astrophysical neutrinos provide a unique probe of Lorentz-invariance violation (LIV), as small energy-dependent deviations from the speed of light can produce measurable time delays over cosmological distances. We search for LIV-induced correlations between neutrinos and gamma-ray bursts using the public 12-year IceCube High-Energy Starting Event dataset and a catalog of 746 bursts with measured redshifts. We develop a likelihood analysis accounting for neutrino directional and energy uncertainties, a possible intrinsic time offset between neutrino and gamma-ray emission, and the decay of superluminal neutrinos expected within effective field theory. For linear LIV, the data show a mild preference over the background-only hypothesis, with a $p$-value of $3.1\\%$, corresponding to a one-sided Gaussian significance of approximately $1.9σ$. The best fit corresponds to a LIV scale $Λ_{\\rm LIV}=5.8\\times10^{17}\\,\\mathrm{GeV}$ and is effectively driven by the subluminal component, as superluminal neutrinos are strongly suppressed by LIV-induced decays at the analyzed energies. The preferred LIV scale and the most significant neutrino--gamma-ray burst associations are consistent with previous studies based on different statistical approaches. No evidence for quadratic LIV is found. These results motivate further searches with complementary neutrino datasets, particularly at lower energies, where the superluminal component may become observable.",
-      "published": "2026-10-18",
-      "updated": "2026-10-18",
-      "url": "http://arxiv.org/abs/2610.25214v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.25214v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.26957v1",
-      "title": "On the Nature of the BeWD System Nova FQ Circinus",
-      "authors": [
-        "Shatakshi Chamoli",
-        "Philip A. Charles",
-        "Judhajeet Basu",
-        "G. C. Anupama",
-        "Sudhanshu Barway",
-        "Przemek Mróz"
-      ],
-      "abstract": "The classical nova FQ Cir (Schaefer et al. 2026) has recently been shown to have a Be star donor, and has been identified as a High Mass Cataclysmic Variable (HMCV), with an orbital period of $\\sim 2.04d$ (twice the 1.02d periodogram peak). Using the extensive OGLE optical archive, together with existing observations from ASAS-SN we instead find significant modulation between $\\sim 50-60$~days and propose that the orbital period is likely closer to $\\sim 62d$. We interpret the low amplitude 1.02 d modulation as a non-radial pulsation of the Be star. We also reassess the HMCV classification based on properties of known Be star-white dwarf systems.",
-      "published": "2026-10-18",
-      "updated": "2026-10-18",
-      "url": "http://arxiv.org/abs/2610.26957v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.26957v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.25176v1",
-      "title": "Moving Beyond Quasinormal Modes and Reinterpreting Direct Waves in Binary Black Hole Merger-Ringdowns",
-      "authors": [
-        "Richard Dyer",
-        "Anuj Kankani",
-        "Gareth Arturo Marks",
-        "Sean T. McWilliams",
-        "Christopher J. Moore"
-      ],
-      "abstract": "Based on black-hole perturbation-theory calculations and an effective-one-body picture of binary black hole mergers, it has been suggested that a direct wave may be present and measurable in the ringdown. Furthermore, it has been suggested that this signal might originate from substantially inside the light ring (or photon sphere) of the remnant black hole, perhaps even from close to the event horizon. In this paper, we present three independent strands of evidence against such claims. In the process, we show that there is indeed an early-time part of the ringdown signal that cannot be directly modeled by quasinormal modes. However, there is no evidence that this is a direct wave as it has previously been defined, and we show that the properties of this component are related to the remnant's light ring rather than its horizon.",
-      "published": "2026-10-18",
-      "updated": "2026-10-18",
-      "url": "http://arxiv.org/abs/2610.25176v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.25176v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.25117v1",
-      "title": "MACE: Multigroup-Multiangle Integrated Thermal Compton Scattering Kernel",
-      "authors": [
-        "Itamar Giron",
-        "Menahem Krief",
-        "Elad Steinberg"
-      ],
-      "abstract": "We present a comprehensive set of accurate Compton-scattering tables for use in multigroup, multiangle radiation-transport calculations. The tables contain the exact thermal Compton kernel integrated over incident-energy groups, scattered-energy groups, and angular bins. To generate them, we develop a deterministic integration method in which the pointwise kernel is evaluated with a robust numerical treatment that remains accurate across challenging regions of parameter space. The multidimensional integrals are computed using nested quadratures whose panels adapt to the Compton recoil ridge, its thermal broadening, and the nearly elastic forward-scattering boundary layer. We validate the tabulated results against published kernel profiles, angular and energy moments, mean free paths, multigroup redistribution data, and an independent Monte Carlo estimator. The resulting tables provide the radiation-transport community with accurate, reproducible, and readily usable Compton redistribution matrices and angular moments.",
-      "published": "2026-10-18",
-      "updated": "2026-10-18",
-      "url": "http://arxiv.org/abs/2610.25117v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.25117v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.25097v1",
-      "title": "Destinies of Plasmoids Formed from the Magnetic Reconnection Occurring within the Ergo Region of a Rotating Black Hole",
-      "authors": [
-        "Ho-Yun YuChih",
-        "Ye Shen"
-      ],
-      "abstract": "It is widely accepted that magnetic reconnections occur successively in black hole accretion flows, especially on the equatorial plane, owing to the formation of the equatorial current sheet. When magnetic reconnection takes place within the ergosphere of a rotating black hole, one of the ejected plasmoids (denoted as $p_-$) may acquire negative energy-at-infinity density, while the companion plasmoid (denoted as $p_+$) correspondingly carries the energy extracted from the black hole. This mechanism, known as the Comisso-Asenjo process, provides a viable astrophysical pathway for extracting energy from a rotating black hole. Generally speaking, two conditions have to be satisfied for successful energy extraction. First, $p_-$ is generated via magnetic reconnection with negative energy-at-infinity density. Second, the associated $p_+$, which carries the extracted energy, must escape to infinity. Though a number of studies have promoted the theory of the Comisso-Asenjo process, the escape of $p_+$ lacks consideration. In this work, we adopt geodesic approach to systematically examine the destinies of $p_+$ after ejection, thereby establishing the complete conditions for energy extraction from a rotating black hole via magnetic reconnection. We redefine the covering factor, for which only escaping $p_+$ are counted. This quantity reflects how probable the successful energy extraction occurs in an accretion system. Through analysis of this revised covering factor, we identify a lower bound on the black hole spin, $a=0.8005$, below which energy extraction via magnetic reconnection can never succeed, no matter how high the magnetization of the bulk plasma is. This limit suggests that the spin-down of a black hole caused by successive magnetic reconnections would terminate once the spin decreases to approximately 0.8005.",
-      "published": "2026-10-18",
-      "updated": "2026-10-18",
-      "url": "http://arxiv.org/abs/2610.25097v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.25097v1"
     },
     {
       "source": "arxiv",
