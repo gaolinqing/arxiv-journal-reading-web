@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T05:56:23+00:00",
-  "local_date": "2026-10-30",
+  "generated_at": "2026-10-31T05:52:35+00:00",
+  "local_date": "2026-10-31",
   "time_windows": {
-    "today": "2026-10-30",
+    "today": "2026-10-31",
     "week_days": 7
   },
   "sources": {
@@ -1656,7 +1656,7 @@
         "Ketan Rikame",
         "Biswajit Paul"
       ],
-      "abstract": "Supergiant Fast X-ray Transients (SFXTs) exhibit extreme X-ray variability on short timescales of minutes to hours, driven by accretion processes that are still poorly understood. IGR J16418â4532 is an intermediate SFXT in which X-ray pulsations have been detected and which has been proposed as a candidate cyclotron line source, making it a key system for probing neutron-star accretion physics and magnetic field properties in this class of sources. We aim to constrain the projected semi-major axis of the SFXT IGR J16418--4532, through timing analysis, and confirm the presence of a Cyclotron Resonant Scattering Feature (CRSF), thereby characterising the nature of the compact object in this system. We analysed a 148 ks long $\\textit{NuSTAR}$ observation and several archival $\\textit{RXTE}$ observations using epoch-folding techniques to search for pulsations while correcting the photon arrival times for a range of $a_x \\sin(i)$ values. We performed phase-averaged spectroscopy using several different continuum models and assessed the significance of the cyclotron line feature. We detect coherent pulsations with $P_{\\mathrm{spin}} = 1208.67 \\pm 0.04$ s and $P_{\\mathrm{spin}} = 1209.4178 \\pm 0.0084$ s in $\\textit{NuSTAR}$ and $\\textit{RXTE/PCA}$ light curves, respectively. The pulsations exhibit clear dependence on the assumed projected semi-major axis, and are detected with the highest significance for $a_x\\sin i = 55.1 \\pm 3.5$ lt-s $(\\textit{NuSTAR})$ and $51.3 \\pm 2.6$ lt-s $(\\textit{RXTE/PCA})$. The light curves show several flares, and the pulse profiles are found to evolve over the course of the observation. Sliding window pulse profiles reveal the pronounced effect of the orbital delay on the pulse arrival times in uncorrected data, which is fully removed post-orbital correction. Using the inferred orbital parameters, we constrain the mass and radius of the companion star to be in the range of $\\sim$12--18 $M_\\odot$ and $\\sim$13--16 $R_\\odot$, respectively. We report the first successful constraint on the binary mass function of an SFXT obtained by considering the orbital motion of the neutron star. Spectral analysis reveals a robust cyclotron absorption line at $\\sim$50 keV, independent of the choice of the continuum, suggesting a magnetic field strength of $\\sim$5 $\\times 10^{12}$~G. The cyclotron line confirmation and dynamical constraints on the companion's mass indicate that IGR J16418--4532 hosts a neutron star with a magnetic field of B$\\approx 5 \\times 10^12 G$ accreting from a $\\sim$12--18 $M_\\odot$ companion. We demonstrate that optimising the pulse detection by correcting the photon arrival times with trial $a_x \\sin(i)$ values rather than modelling the pulse arrival time delays offers a route to obtain dynamical mass measurements in other SFXTs whose variable pulse profiles limit the scope of conventional timing techniques.",
+      "abstract": "Supergiant Fast X-ray Transients (SFXTs) exhibit extreme X-ray variability on short timescales of minutes to hours, driven by accretion processes that are still poorly understood. IGR J16418â4532 is an intermediate SFXT in which X-ray pulsations have been detected and which has been proposed as a candidate cyclotron line source, making it a key system for probing neutron-star accretion physics and magnetic field properties in this class of sources. We aim to constrain the projected semi-major axis of the SFXT IGR J16418--4532, through timing analysis, and confirm the presence of a Cyclotron Resonant Scattering Feature (CRSF), thereby characterising the nature of the compact object in this system. We analysed a 148 ks long $\\mathit{NuSTAR}$ observation and several archival $\\mathit{RXTE}$ observations using epoch-folding techniques to search for pulsations while correcting the photon arrival times for a range of $a_x \\sin(i)$ values. We performed phase-averaged spectroscopy using several different continuum models and assessed the significance of the cyclotron line feature. We detect coherent pulsations with $P_{\\mathrm{spin}}$ = 1208.67$\\pm$ 0.04 s and $P_{\\mathrm{spin}}$ = 1209$.$4178 $\\pm$ 0.0084 s in $\\mathit{NuSTAR}$ and $\\mathit{RXTE/PCA}$ light curves, respectively. The pulsations exhibit clear dependence on the assumed projected semi-major axis, and are detected with the highest significance for $a_x\\sin i$ = 55.1 $\\pm$ 3.5 lt-s $(\\mathit{NuSTAR})$ and 51.3 $\\pm$ 2.6 lt-s $(\\mathit{RXTE/PCA})$. The light curves show several flares, and the pulse profiles are found to evolve over the course of the observation. Sliding window pulse profiles reveal the pronounced effect of the orbital delay on the pulse arrival times in uncorrected data, which is fully removed post-orbital correction. Using the inferred orbital parameters, we constrain the mass and radius of the companion star to be in the range of $\\sim$12--18 $M_\\odot$ and $\\sim$13--16 $R_\\odot$, respectively. We report the first successful constraint on the binary mass function of an SFXT obtained by considering the orbital motion of the neutron star. Spectral analysis reveals a robust cyclotron absorption line at $\\sim$50 keV, independent of the choice of the continuum, suggesting a magnetic field strength of $\\sim$5 $\\times 10^{12}$ G. The cyclotron line confirmation and dynamical constraints on the companion's mass indicate that IGR J16418--4532 hosts a neutron star with a magnetic field of B$\\approx$ 5 $\\times 10^{12} G$ accreting from a $\\sim$12--18 $M_\\odot$ companion. We demonstrate that optimising the pulse detection by correcting the photon arrival times with trial $a_x \\sin(i)$ values rather than modelling the pulse arrival time delays offers a route to obtain dynamical mass measurements in other SFXTs whose variable pulse profiles limit the scope of conventional timing techniques.",
       "published": "2026-10-26",
       "updated": "2026-10-26",
       "url": "http://arxiv.org/abs/2610.36103v1",
@@ -2728,182 +2728,6 @@
       "updated": "2026-10-25",
       "url": "http://arxiv.org/abs/2610.34057v1",
       "pdf_url": "https://arxiv.org/pdf/2610.34057v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33954v1",
-      "title": "Core-Collapse Supernovae from Single and Binary-Stripped Massive Stars - I. Explodability and Nucleosynthesis",
-      "authors": [
-        "J. M. Pollin",
-        "S. Curtis",
-        "C. Fröhlich",
-        "E. J. Griffith",
-        "A. P. Ji",
-        "D. H. Weinberg",
-        "J. A. Johnson",
-        "R. A. Patton",
-        "C. E. Fields"
-      ],
-      "abstract": "Binary interaction can substantially alter massive-star evolution and pre-supernova structure, changing core-collapse outcomes and nucleosynthetic yields. We compare explodability and nucleosynthesis in 66 non-rotating, solar-metallicity single-star and binary-stripped progenitors spanning zero-age main-sequence (ZAMS) masses of $11$-$45\\,{\\rm M}_\\odot$, using the spherically symmetric PUSH framework and nucleosynthesis post-processing. Both populations explode up to $22\\,{\\rm M}_\\odot$, with binary stripping altering explodability at higher ZAMS masses. Successful explosions span similar energies ($\\sim$0.4-1.3$\\,$B) and remnant masses ($\\sim$1.4-2.0$\\,{\\rm M}_\\odot$). The largest nucleosynthetic differences occur at low ZAMS masses, particularly for material undergoing explosive O and Si burning. The $^{56}$Ni yields and iron-group abundances broadly agree with observations of core-collapse supernovae and the metal-poor star HD 84937. When compared with calculations using time-dependent mixing-length theory and a two-parameter explodability criterion for the same progenitors, our results reveal substantial differences in explodability, with agreement on successful explosions for only 5 cases across all three approaches. Nevertheless, elemental yield patterns can remain broadly similar for models that explode successfully across treatments. Salpeter initial-mass-function-weighted yields of most elements differ by $\\sim$20% between populations, with K enhanced by a factor of $\\sim$3.4 in the binary-stripped population, driven by increased production in the lowest-mass progenitors. Binary-stripped models show closer agreement with empirical core-collapse S, K, and Ca abundance ratios relative to Mg inferred from APOGEE, while Na remains overproduced in both populations. Together, our results highlight the need to account for binarity when interpreting supernova abundance patterns.",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33954v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33954v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33879v1",
-      "title": "Finite-temperature ab-initio-Informed Nuclear Equation-of-State Tables (FINEST): Nuclear matter uncertainties in core-collapse supernovae",
-      "authors": [
-        "Finia P. Jost",
-        "André da Silva Schneider",
-        "Almudena Arcones",
-        "Achim Schwenk",
-        "Evan O'Connor",
-        "Gerard Navó",
-        "Yeunhwan Lim"
-      ],
-      "abstract": "We construct new finite-temperature, composition-dependent equation of state (EOS) tables for astrophysical simulations by implementing a recently developed energy-density functional. The functional is constrained by ab initio nuclear matter calculations and neutron-star observations. A distinguishing feature of this functional is a non-monotonic density dependence of the nucleon effective mass, with an increase beyond saturation density. Using these EOS tables, we investigate the impact of current uncertainties in nuclear matter properties on core-collapse supernova (CCSN) evolution with spherically symmetric simulations employing an effective treatment of convective mixing. The magnitude of the EOS effects depends on the progenitor compactness. Within current constraints, variations in incompressibility, symmetry energy, and high-density pressure produce only modest differences during the early post-bounce evolution. In contrast, the effective mass dependence has a much stronger influence on proto-neutron star contraction and the explosion dynamics in a stellar model with high core compactness. Its non-monotonic density dependence leads to a qualitatively different contraction history and can alter the explosion outcome compared to mean-field effective-mass behaviors. Therefore, among the nuclear matter properties considered, the density dependence of the nucleon effective masses has by far the largest impact on CCSN dynamics. This highlights the importance of realistic effective-mass parameterizations in nuclear EOSs used in astrophysical simulations.",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33879v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33879v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33865v1",
-      "title": "Magnetoelastic avalanches in magnetar crusts with plastic islands",
-      "authors": [
-        "Arthur G. Suvorov"
-      ],
-      "abstract": "High-energy outbursts from magnetars may be associated with crustal failures or quakes. The magnetoelastic modes of the star can be excited to large amplitudes in such a framework, providing a natural explanation for the quasi-periodic oscillations observed in the X-ray tails of some events. However, previous calculations of torsional modes have been carried out assuming an intact crust without accounting for the failure itself. We develop a code in this paper that solves the axial sector of the linearised Einstein-Maxwell-Euler equations in a cavity that hosts inelastic regions or 'plastic islands'. As crustal elements are displaced, shear stresses are tracked as a function of time to allow cells to dynamically switch from elastic to inelastic states. The presence of islands in the crust promotes phase mixing and, when reflected waves mix constructively, large sections fail collectively ('avalanche') if the initial kick is strong enough. Transient spectral features are observed as a result of the progressive loss of elastic support, which may explain the temperamental nature of the oscillations observed following giant flares and magnetar storms.",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33865v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33865v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33844v1",
-      "title": "Far Ultraviolet Variability on Timescales of a Few hours in the Recurrent Nova M31N 2008-12a: Origin and Implications",
-      "authors": [
-        "Judhajeet Basu",
-        "Sudhanshu Barway",
-        "G. C. Anupama",
-        "Shatakshi Chamoli",
-        "Kulinder Pal Singh",
-        "Varun Bhalerao",
-        "M. Pavana",
-        "Vishwajeet Swain"
-      ],
-      "abstract": "The fate of the accretion disk during nova eruptions remains an open question, particularly in rapidly recurring novae, where high accretion rates and low ejecta masses may allow the disk to survive the eruption. M31N 2008-12a, the most rapidly recurring nova currently known, provides an ideal laboratory for investigating this process. We present high-cadence AstroSat/UVIT observations obtained during eruptions between 2019 and 2023. Complementary multiwavelength observations of the 2023-2025 eruptions are also presented, which are broadly consistent with prior outbursts. The main result is the early onset of intrinsic far-ultraviolet variability on a timescale of a few hours, approximately 4-5 days after eruption, which is of astrophysical origin. A periodicity search suggests a tentative signal at 4.60 (+0.25,-0.15) hr at 2.3 sigma confidence, detected in high-cadence UVIT/FUV observations. We show that a Keplerian orbit of this timescale lies not only within the Roche lobe of the white dwarf in M31N 2008-12a, but also within the circularisation radius. A disk-related origin is, thus, physically plausible. The presence of this UV variability so soon after eruption suggests that accretion structures may already exist during the early post-eruption phase, supporting the disk-survival hypotheses. If confirmed by future observations, this method may provide a new dynamical probe of accretion disk survival in rapidly recurring novae.",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33844v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33844v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33696v1",
-      "title": "Effects of Synchrotron Self-Absorption on Polarization Diagnostics of MHD Turbulence",
-      "authors": [
-        "Ning-Ning Guo",
-        "Jian-Fu Zhang",
-        "Hua-Ping Xiao",
-        "Qing-Zhong Liu"
-      ],
-      "abstract": "Synchrotron polarization is a powerful tool for diagnosing magnetohydrodynamic (MHD) turbulence, yet prior analyses are confined to the optically thin regime, neglecting the effects of synchrotron self-absorption (SSA). Here, we incorporate SSA into the radiative transfer of polarized synchrotron emission and employ 3D MHD turbulence simulations to investigate its impacts on polarization statistics. We show that SSA strongly modulates polarized intensity by suppressing its emission amplitude, steepening its low-frequency power-law slopes, and reducing scale-dependent anisotropy. Notably, SSA does not impede the recovery of the scaling slope of the magnetic turbulence. Our results extend the applicability of synchrotron polarization diagnostics to optically thick astrophysical environments, providing a theoretical foundation for interpreting multi-frequency radio polarization observations. This confirms that polarization statistical techniques remain effective for diagnosing MHD turbulence properties in astrophysical environments where SSA is present.",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33696v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33696v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33548v1",
-      "title": "PeV Diffuse Neutrinos from Magnetically Arrested Disks in Low-Luminosity Active Galactic Nuclei",
-      "authors": [
-        "Fan Wu",
-        "Benzhong Dai"
-      ],
-      "abstract": "Radiatively inefficient accretion flows (RIAFs) in low-luminosity active galactic nuclei (LLAGNs) are promising candidates for the PeV astrophysical diffuse neutrino background (DNB), but how the magnetically arrested disk (MAD) state affects their neutrino output and what fraction of LLAGNs are in this state remain unclear. We present a comprehensive study of diffuse neutrino emission from the inner accretion flows of LLAGNs in the MAD state, including all three flavors and both hadronuclear ($pp$) and photohadronic ($pγ$) production channels. Assuming that $\\sim 5\\%$ of the accretion power is transferred to nonthermal protons, current IceCube data allow at most $2.3\\times10^{-3}$ of LLAGNs to have their inner accretion flows in a MAD state that can produce high-energy neutrinos. A lower fraction of the accretion power transferred to nonthermal protons would allow a proportionally larger fraction of such LLAGNs. Assuming that the comoving number density of low-excitation radio galaxies (LERGs) approximately matches that of LLAGNs in the MAD state, we also estimate a MAD fraction of $\\simeq 1.6\\times10^{-3}$. The corresponding diffuse intensity is compatible with current IceCube data and testable by IceCube-Gen2. For this MAD fraction, the all-flavor diffuse intensity peaks at $E_ν\\simeq1.5\\,{\\rm PeV}$ with $E_ν^2Φ_ν\\simeq2.6\\times10^{-9}\\,{\\rm GeV\\,cm^{-2}\\,s^{-1}\\,sr^{-1}}$. Current IceCube data are beginning to challenge several predictions from previous LLAGN RIAF models, and the MAD component can become the dominant contribution from LLAGN accretion flows beyond the cutoffs of most earlier RIAF spectra considered here.%%%This constraint suggests that only a small fraction of LLAGNs are supplied with sufficient coherent net poloidal magnetic flux.",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33548v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33548v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33443v1",
-      "title": "Fast Outflow Driven from the Magnetically Arrested Disc",
-      "authors": [
-        "Taili Yi",
-        "Jia-Wen Li"
-      ],
-      "abstract": "Fast outflows are commonly observed in accreting black hole systems, yet their launching mechanism remains debated, especially when the gas is highly ionized and radiation line driving becomes inefficient. We investigate magnetically driven outflows from magnetically arrested discs (MADs) using a steady, axisymmetric magnetocentrifugal outflow model. The outflow equations follow the classical trans-magnetosonic MHD framework, while the disc structural scalings and outflow-base conditions are motivated by general relativistic magnetohydrodynamics (GRMHD) simulations. We solve for the trans-magnetosonic outflow solutions along prescribed large-scale poloidal magnetic field lines. The outflows launched from the inner disc are strongly accelerated and the formal Newtonian solutions can enter the mildly relativistic regime. The outflow velocity decreases systematically with increasing footpoint radius, producing a radially stratified outflow in which inner streamlines reach UFO-like velocities while outer streamlines form slower components. We also find that the MAD solutions have a large magnetic lever arm $\\tilde{l}=(R_{\\rm A}/R)^2$ is typically several tens and can reach $\\sim10^2$, which implies that the outflow can carry a large amount of the specific angular momentum of the disc material at its footpoint, and we find that about $55\\%$ of the angular-momentum estimated between the outer and inner disc boundaries is removed by the magnetic outflow. The total mass-loss rate in the outflow is about $14\\%$ of the disc mass-accretion rate in our fiducial model. These results suggest that the MADs provide a natural environment for producing both fast, radially stratified disc outflow and efficient disc angular-momentum removal. MAD-driven outflow may therefore provide a magnetic origin for ultra-fast absorbers in low-luminosity active galactic nuclei (AGNs) and X-ray binaries (XRBs).",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33443v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33443v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33409v1",
-      "title": "Gravitational Waves from Magnetically Confined Mountains on Accreting White Dwarfs",
-      "authors": [
-        "Pedro Henrique Barboza Rossetto",
-        "Manoel Felipe Sousa",
-        "Diego Antonio Falceta Gonçalves"
-      ],
-      "abstract": "We propose fast-spinning, magnetic white dwarfs in binary systems as promising sources of continuous gravitational waves for future space-based detectors. The aim of this work is to determine the maximum ellipticities and gravitational wave amplitudes achievable by magnetically confined mountains accreted on the star's magnetic poles, and to assess their detectability against predicted sensitivity curves. Self-consistent magnetohydrodynamic equilibrium simulations are used to characterize the structure of the accreted mountain. A parametric search is then performed on these simulations to determine the maximum mass values that can be confined by the star's magnetic field. The stellar ellipticity $\\varepsilon$ grows nearly linearly with accreted mass $M_{\\rm a}$ up to a maximum, and was found to scale as $\\varepsilon_{\\rm max} \\simeq 1.6\\times10^{-2}T_5^{-2} B_{*,8}^{2}$, while the maximum gravitational wave amplitude as $h_{\\rm 0, max} \\simeq 1.2\\times10^{-23}T_5^{-2} B_{*,8}^{2}$, where $T_5$ represents the temperature of the mountain in units of $10^5 \\mathrm{K}$ and $B_{*,8}$ represents the star's polar magnetic field intensity in units of $10^8 \\mathrm{G}$. Across a representative range of source inclinations, distances and spin periods, magnetically confined mountains on white dwarfs can generate continuous gravitational waves detectable by future space-based interferometers. BBO and DECIGO can probe diverse configurations, whereas LISA, TianQin, and Taiji require highly magnetized systems. Applications to known fast-spinning white dwarfs indicate that cooler accreted mountains favor detectability.",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33409v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33409v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2610.33376v1",
-      "title": "Late Epoch Infrared Spectroscopy and Two-Component 3D Photoionization Modeling of Classical Nova V5668 Sgr",
-      "authors": [
-        "Sarah H. Taft",
-        "Charles E. Woodward",
-        "Bruno C. Santos",
-        "D. P. K. Banerjee",
-        "R. D. Gehrz"
-      ],
-      "abstract": "V5668 Sgr is an Fe II classical nova (CN) that exploded on 15 March 2015. We present near-infrared (NIR) spectroscopy of the ejecta from the Mt. Abu observatory which exhibits emission lines of species H, He, N, S, Ti, and Si. We also present SOFIA (+FORCAST) spectroscopy which shows two forbidden emission lines, [Ne II] at 12.8 $μ$m and [O IV] at 25.9 $μ$m, as well as two emission features attributed to polycyclic aromatic hydrocarbons (PAH) at 6.2 $μ$m and 11.3 $μ$m. 1D Cloudy photoionization simulations require two components to model the system, which suggests a multifaceted, morphologically complex ejecta. The 1D simulations also reveal He, N, Ne, S, Ti, Si, and O chemical abundances elevated above fiducial solar levels. 3D pyCloudy photoionization emission profiles visualize the ejecta and elucidate the system's complex composition.",
-      "published": "2026-10-24",
-      "updated": "2026-10-24",
-      "url": "http://arxiv.org/abs/2610.33376v1",
-      "pdf_url": "https://arxiv.org/pdf/2610.33376v1"
     },
     {
       "source": "arxiv",
