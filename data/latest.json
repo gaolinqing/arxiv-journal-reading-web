@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T06:55:51+00:00",
-  "local_date": "2026-11-06",
+  "generated_at": "2026-11-07T06:07:17+00:00",
+  "local_date": "2026-11-07",
   "time_windows": {
-    "today": "2026-11-06",
+    "today": "2026-11-07",
     "week_days": 7
   },
   "sources": {
@@ -441,25 +441,6 @@
       "source_label": "arXiv astro-ph.HE",
       "category": "astro-ph.HE",
       "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.07008v1",
-      "title": "Probing Dark Matter-Electron Scattering with the Central Molecular Zone",
-      "authors": [
-        "Thong T. Q. Nguyen",
-        "Shyam Balaji",
-        "Carlos Blanco",
-        "Pedro De la Torre Luque"
-      ],
-      "abstract": "The Central Molecular Zone, a dense and gas-rich region surrounding the Galactic Center, hosts numerous dense molecular gas cores that provide unique environments to probe dark matter interactions. Among these, the IRS 13E3 cluster is one of the closest to the Galactic Center and one of the most extensively studied. We show that dark matter-electron scattering can substantially ionize molecular hydrogen (H$_2$) in the IRS 13E3 core, contributing to the ionization rate in conjunction with standard cosmic rays. Using the ionization rate inferred from H$_3^+$ observations of the central parsecs, we derive constraints on heavy and ultralight dark photon mediators, a heavy leptophilic mediator, and electric dipole moment interactions in the strongly interacting regime, where terrestrial searches are limited by the overburden problem. Our results highlight the potential of dense molecular cores near the Galactic Center as promising targets for constraining dark matter interactions with future observations.",
-      "published": "2026-11-04",
-      "updated": "2026-11-04",
-      "url": "http://arxiv.org/abs/2611.07008v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.07008v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
       "id": "arXiv:2611.07006v1",
       "title": "Black Hole Seeds and Little Red Dots: Connecting Formation and Growth with a JWST Multi-Cycle Treasury Program",
       "authors": [
@@ -555,6 +536,25 @@
       "updated": "2026-11-04",
       "url": "http://arxiv.org/abs/2611.07006v1",
       "pdf_url": "https://arxiv.org/pdf/2611.07006v1"
+    },
+    {
+      "source": "arxiv",
+      "source_label": "arXiv astro-ph.HE",
+      "category": "astro-ph.HE",
+      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
+      "id": "arXiv:2611.07008v1",
+      "title": "Probing Dark Matter-Electron Scattering with the Central Molecular Zone",
+      "authors": [
+        "Thong T. Q. Nguyen",
+        "Shyam Balaji",
+        "Carlos Blanco",
+        "Pedro De la Torre Luque"
+      ],
+      "abstract": "The Central Molecular Zone, a dense and gas-rich region surrounding the Galactic Center, hosts numerous dense molecular gas cores that provide unique environments to probe dark matter interactions. Among these, the IRS 13E3 cluster is one of the closest to the Galactic Center and one of the most extensively studied. We show that dark matter-electron scattering can substantially ionize molecular hydrogen (H$_2$) in the IRS 13E3 core, contributing to the ionization rate in conjunction with standard cosmic rays. Using the ionization rate inferred from H$_3^+$ observations of the central parsecs, we derive constraints on heavy and ultralight dark photon mediators, a heavy leptophilic mediator, and electric dipole moment interactions in the strongly interacting regime, where terrestrial searches are limited by the overburden problem. Our results highlight the potential of dense molecular cores near the Galactic Center as promising targets for constraining dark matter interactions with future observations.",
+      "published": "2026-11-04",
+      "updated": "2026-11-04",
+      "url": "http://arxiv.org/abs/2611.07008v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.07008v1"
     },
     {
       "source": "arxiv",
@@ -2401,97 +2401,6 @@
       "updated": "2026-11-01",
       "url": "http://arxiv.org/abs/2611.01380v1",
       "pdf_url": "https://arxiv.org/pdf/2611.01380v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.01158v1",
-      "title": "Exothermic Higgs portal: from LUX-ZEPLIN recoil to Gamma Rays",
-      "authors": [
-        "Subhojit Roy",
-        "Jure Zupan"
-      ],
-      "abstract": "We show that a minimal extension of the Standard Model (SM) by a single complex scalar $φ$ provides a viable inelastic exothermic, thermal relic, interpretation of the recently reported nuclear-recoil candidate from LUX-ZEPLIN (LZ). The mass terms and Higgs-portal interactions split $φ$ into two nearly degenerate real scalars, $φ_{1,2}$. For mass-splitting of a few hundred keV, $φ_2$ is cosmologically long-lived and the two states have comparable relic abundances. Taking $φ_{1,2}$ masses to be $\\sim100\\,$GeV, with off-diagonal Higgs coupling fixed by relic abundance, the exothermic down-scattering yields an order-one event expectation for the LZ exposure, without relying on the high-velocity tail of the dark matter velocity distribution required in endothermic scenarios. This scenario can be tested using different nuclear targets and with indirect dark matter searches: $φ_2\\toφ_1γγ$ decays give a broad sub-MeV photon continuum that can be probed by INTEGRAL/SPI and COSI; $φ_1φ_2$ annihilation produces a GeV-scale continuum, extending up to $\\sim$100 GeV, that is probed by Fermi-LAT observations of dwarf galaxies; current CMB constraints are satisfied and annihilation among dark matter particles captured in the Sun is strongly suppressed. Next-generation experiments could probe correlated scattering, decay, and annihilation signatures of this thermal Higgs-portal scenario.",
-      "published": "2026-10-31",
-      "updated": "2026-10-31",
-      "url": "http://arxiv.org/abs/2611.01158v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.01158v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.01000v1",
-      "title": "Probing the nature of Galactic microquasars with diffuse gamma rays and neutrinos: low-mass versus high-mass X-ray binaries",
-      "authors": [
-        "Pei-Pei Zhang",
-        "Wei Liu",
-        "Zong-Kang Zeng",
-        "You-Liang Feng",
-        "Yi-Qing Guo"
-      ],
-      "abstract": "The observations of sub-PeV gamma-ray emission have provided strong evidence for a Galactic origin of the cosmic-ray \"knee\" region. Meanwhile, mounting observations have ruled out most supernova remnants as sources of PeV cosmic rays, i.e., the so-called PeVatrons. Recently, a new type of PeVatron candidate, microquasars, has received much attention. Studies indicate that microquasars could be the dominant contributor to PeV cosmic rays. However, the spatial distribution of microquasars is not known. They could belong to either LMXBs or HMXBs, depending on the mass of the optical companion star. In this work, we study which type could be the dominant by means of very high energy gamma rays and neutrinos. We find that the diffuse gamma-ray distributions along the Galactic longitude are quite different due to the spatial distributions of these two kinds of sources. If the very high energy gamma rays are dominated by the distribution of LMXBs, the gamma-ray distribution would be more concentrated toward the direction of the Galactic center. Furthermore, we also find that HMXB distribution cannot account for the latest observations of Galactic diffuse neutrinos. Higher-precision measurements of the Galactic diffuse gamma-ray and neutrino fluxes with LHAASO, HAWC, IceCube, and KM3NeT will allow the spatial distribution of the microquasar population to be determined and the origin of the knee to be tested.",
-      "published": "2026-10-31",
-      "updated": "2026-10-31",
-      "url": "http://arxiv.org/abs/2611.01000v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.01000v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.00930v1",
-      "title": "From Kination to Detection: Scotogenic Scalar Dark Matter",
-      "authors": [
-        "Eung Jin Chun",
-        "Ranjeet Kumar",
-        "Sanjoy Mandal",
-        "Abhishek Roy"
-      ],
-      "abstract": "We investigate scalar dark matter in the scotogenic model during an early kination-dominated epoch. The enhanced expansion rate causes earlier freeze-out and increases the relic abundance, opening viable dark matter masses from approximately $200~\\mathrm{GeV}$ to $1~\\mathrm{TeV}$ while reducing the need for co-annihilation with a nearly degenerate singlet fermion. Current indirect searches strongly constrain the $(100-200)~\\mathrm{GeV}$ region, whereas much of the surviving parameter space can be probed by CTA and next-generation direct detection experiments. The viable spectra also lead to complementary collider signatures, including missing transverse energy, displaced leptons, and disappearing charged tracks, providing promising tests at the HL-LHC and future lepton colliders.",
-      "published": "2026-10-31",
-      "updated": "2026-10-31",
-      "url": "http://arxiv.org/abs/2611.00930v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.00930v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.00918v1",
-      "title": "Sensitivity of the IceCube atmospheric muon rate to decadal trends in the effective atmospheric temperature",
-      "authors": [
-        "Tanvi Krishnan",
-        "Gabriela Barenboim",
-        "Carlos A. Argüelles"
-      ],
-      "abstract": "Decadal changes in the Antarctic stratosphere, generally associated with ozone recovery and shifts in polar circulation, are of broad geophysical interest. However, independent long-term measurements of the atmosphere above the Antarctic interior are scarce. We assess whether the atmospheric muon rate recorded by IceCube could constrain decadal changes in the effective atmospheric temperature, $T_\\mathrm{eff}$, a weighted average of temperature through the atmosphere that is most sensitive to the stratosphere. Using public atmospheric reanalysis data and records of cosmic-ray, solar, and geomagnetic variability, we reproduce the measured seasonal response of the IceCube muon rate. We then test whether the same response applies to long-term temperature changes with a different vertical temperature profile. The limiting requirement is detector stability rather than counting statistics: an unmodeled muon rate drift of $1\\%\\,\\mathrm{decade^{-1}}$ would mimic a temperature trend of $2.8\\,\\mathrm{K\\,decade^{-1}}$. The long-term rate must therefore be stable to approximately $0.3\\%\\,\\mathrm{decade^{-1}}$. Within this budget, snow accumulation contributions can be constrained. For a 14-year record, atmospheric variability gives a one-sided 95% CL statistical sensitivity of $1.6\\,\\mathrm{K\\,decade^{-1}}$. Given this sensitivity, the $\\sim0.9\\,\\mathrm{K\\,decade^{-1}}$ cooling indicated by the 2011-2025 atmospheric records would become distinguishable after approximately 30 years of measurement.",
-      "published": "2026-10-31",
-      "updated": "2026-10-31",
-      "url": "http://arxiv.org/abs/2611.00918v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.00918v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.00581v1",
-      "title": "A Unified Mass-Loading Model for ASKAP J1745-5051: Linking Long-Period Radio Transients to Magnetic Cataclysmic Variables",
-      "authors": [
-        "Yejing Zhan",
-        "Fa-Yin Wang"
-      ],
-      "abstract": "Long-period radio transients (LPTs) in white dwarf binaries require sufficiently tenuous plasma to sustain coherent radio emission, posing a challenge in systems with dense accretion flows. ASKAP J1745-5051 (J1745) combines LPT-like radio pulses recurring approximately every 82 min with magnetic accretion and X-ray modulation at a consistent period. We investigate this coexistence using a unified mass-loading framework for Roche-lobe overflow and a tenuous donor wind in the binary magnetic field. The dense stream supplies the accretion curtain and near-white-dwarf X-ray sources, while the tenuous wind feeds flux tubes of $(1-4)\\times10^7\\,{\\rm cm^{-3}}$, satisfying the local density requirement for electron-cyclotron maser emission. A fiducial geometry places the X-ray maximum near orbital phase $0.886$ and produces a radio-visibility window at phases $0.22-0.33$, consistent with the primary observed pulse window. Geometrical modulation and curtain absorption produce stronger soft-band than hard-band X-ray variability. Long-term phase-connected radio monitoring and simultaneous X-ray observations can test this interpretation through recurring radio phase changes and correlated changes in X-ray modulation. These results extend the proposed connection between detached binary LPTs and magnetic cataclysmic variables (mCVs). J1745 may represent an evolved mCV near the orbital-period minimum, suggesting that LPT-like activity can occur at a late accreting stage.",
-      "published": "2026-10-31",
-      "updated": "2026-10-31",
-      "url": "http://arxiv.org/abs/2611.00581v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.00581v1"
     },
     {
       "source": "arxiv",
