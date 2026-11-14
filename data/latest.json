@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T06:52:47+00:00",
-  "local_date": "2026-11-13",
+  "generated_at": "2026-11-14T06:35:35+00:00",
+  "local_date": "2026-11-14",
   "time_windows": {
-    "today": "2026-11-13",
+    "today": "2026-11-14",
     "week_days": 7
   },
   "sources": {
@@ -19,7 +19,7 @@
     "prl_fallback": "Disabled by default because Crossref cannot identify the APS PRL section exactly."
   },
   "warnings": [
-    "PRL is manual: APS blocks scripted access (APS PRL page returned a Cloudflare challenge instead of article HTML.). Open the PRL source directly: https://journals.aps.org/prl/recent?toc_section%5B%5D=cosmology-astrophysics-and-gravitation"
+    "PRL is manual: APS blocks scripted access (HTTP Error 403: Forbidden). Open the PRL source directly: https://journals.aps.org/prl/recent?toc_section%5B%5D=cosmology-astrophysics-and-gravitation"
   ],
   "papers": [
     {
@@ -3859,178 +3859,6 @@
       "updated": "2026-11-08",
       "url": "http://arxiv.org/abs/2611.11157v1",
       "pdf_url": "https://arxiv.org/pdf/2611.11157v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.12973v1",
-      "title": "Standalone Validation of a Pulsar Evolution Subroutine for NBODY6++GPU: Seven Test Scenarios",
-      "authors": [
-        "Maria Rah"
-      ],
-      "abstract": "Pulsars in globular clusters provide critical constraints on the evolution of compact objects. However, the treatment of neutron stars in standard N-body codes is outdated, and requires a better implementation of magnetic field decay, spin evolution, and accretion driven recycling that shape their observable properties. We present a standalone validation of a pulsar evolution subroutine for NBODY6++GPU, systematically tested across seven controlled scenarios prior to integration into full cluster simulations. These scenarios isolate distinct evolutionary regimes, including young pulsar spin down, millisecond pulsar weak torque evolution, accretion driven recycling in X-ray binaries, environmental torques in dense cores, wide binary systems, and compact binaries in the dipole spin-down regime. Through two separate numerical implementations, we achieve cross validation demonstrating better than 0.1% agreement across all physical quantities and timescales. Our validation confirms that analytical solutions are reproduced with high precision for isolated pulsars, gigayear scale evolution (tau_c ~ 1.0 Gyr) matches observations of millisecond pulsars in clusters like 47 Tucanae, and accretion driven recycling operates with physically realistic timescales, yielding a final period of 1.0 ms and a period derivative of approximately -5.9e-19 s/s, with accretion dominance by a factor of about 14. We demonstrate that environmental torques remain negligible even in the densest cluster environments, while compact binary spin down is validated; gravitational wave orbital decay is deferred to future work. All validation codes, test suites, and integration instructions are publicly available to support future applications.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.12973v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.12973v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10934v1",
-      "title": "Stellar Disruption and Black Hole Retention in Massive Collisions: The Role of Thermonuclear Feedback",
-      "authors": [
-        "Hongxuan Jiang",
-        "Douglas N. C. Lin"
-      ],
-      "abstract": "A stellar-mass black hole (BH) that collides with a massive star can be captured by drag and settle at its center as a black hole star. Hydrodynamic simulations that neglect nuclear reactions have found that the star survives and becomes a black hole star (BH*) for BH-to-star mass ratios $q\\lesssim0.2$. We perform hydrodynamic simulations of head-on collisions with the \\athenak\\ code, including CNO burning coupled to the gas, for $q=0.1$ and $0.2$ BHs, stellar masses of $100$ and $500\\,M_{\\odot}$, solar, metal-deficient, and Helium-rich compositions. In all models (with $q\\le0.2$), the energy dissipated by drag is comparable to or less than the binding energy that the captured BH adds to the gas so that it alone does not disrupt the star. But, under compression around the captured BH, gas is heated to $\\gtrsim2\\times10^8$\\,K and undergoes thermonuclear burning at the $β$-limited hot-CNO rate. Within about one dynamical time after the BH settles at the center, the nuclear energy released during the encounter becomes a significant fraction of the star's binding energy $\\tfrac32\\barβ\\int P\\,dV$. The star loses most of its mass once the cumulative release reaches this binding energy. Below this threshold, the release rate declines. Merger between a solar-composition star and a BH with a mass ratio $q=0.2$ leads to the disruption of the star after releasing most of its total mass. But a metal-poor star, with nearly the same binding energy and total yield, survives with minor release after merger with an identical BH. After coalescence with a less massive ($q=0.1$) BH, stars with both solar and metal-poor composition survive as black hole stars, burning at a rate $\\gtrsim 10^{44}\\,{\\rm erg\\,s^{-1}}$, far from thermal equilibrium. Very massive and helium-rich stars, which are weakly bound, are the most easily disrupted.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10934v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10934v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10745v1",
-      "title": "Stochastic Acceleration Downstream of Astrophysical Shocks",
-      "authors": [
-        "Antonio Capanema",
-        "Pasquale Blasi"
-      ],
-      "abstract": "Generation and evolution of turbulence at shock fronts are crucial aspects of the process of particle acceleration in different classes of sources. Here we aim at describing the fate of non-thermal particles and turbulence in the downstream region of an astrophysical shock, both in the case in which turbulence is solely produced upstream and advected through the shock and in the case in which additional turbulence is injected downstream. In particular we will provide an estimate of the effect of stochastic acceleration on particles accelerated at the shock and then advected behind it. The calculations will be specialized to supernova remnant shocks. The temporal evolution of the particle distribution function downstream of the shock and the power spectrum of the turbulent perturbations are both followed by solving numerically the transport equations for the two quantities, accounting for the damping of waves due to the particles that resonantly interact with them, which makes the problem non-linear. Our calculations show that, if waves are only self-generated upstream via Bell instability, they are not able to significantly modify the particle spectrum in the downstream region. Additionally, turbulent cascading in $k$-space quickly drains their energy, further limiting the stochastic acceleration of particles. If, on the other hand, there are additional sources of turbulence downstream, then these waves can contribute meaningfully to second order Fermi acceleration and alter the spectrum of particles. This may reflect in the spectrum of gamma radiation produced through $pp$ scattering downstream. Although second order Fermi acceleration is typically slower than diffusive shock acceleration, particles are expected to stay downstream of shocks for much longer times during which stochastic acceleration can modify their spectrum and affect the spectra of multi-messenger emissions.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10745v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10745v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10703v1",
-      "title": "Probing the origin of the LHAASO Peanut with a hidden central accelerator",
-      "authors": [
-        "Agnibha De Sarkar"
-      ],
-      "abstract": "A highly asymmetric, giant Peanut-shaped structure has been detected by the Large High Altitude Air Shower Observatory (LHAASO) in ultra-high-energy gamma rays at high Galactic latitude, $b\\approx-17.5^{\\circ}$, suggesting anisotropic particle transport around a Galactic accelerator. We investigate whether its spectrum and morphology can arise from a hidden central accelerator embedded in a projected anisotropic halo. The baseline model accounts for the diffuse strip and central excess, while a phenomenological prescription for a localized magnetic field reorientation toward the line of sight (LOS), together with a particle-conserved remapping of the electrons downstream of the far excess into an emitting column of prescribed transverse extent, enhances the emission at the far excess position. We explore various source ages, along with different combinations of ambient magnetic field strength and parallel diffusion coefficient, while accounting for radiative cooling when estimating the viewing geometry. The exploration reveals that relatively rapid parallel transport enhances the far component while preserving a dominant diffuse strip. Representative configurations remain compatible with the observed spectral energy distribution, although the fitted far component remains comparatively weaker than the central component above 100 TeV, even in cases where their component fluxes are comparable at 25-100 TeV. These results illustrate the plausibility of a hidden central accelerator as the origin of the LHAASO Peanut, while identifying the remaining difficulty in reproducing the relative brightness of its compact components within the adopted phenomenological framework.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10703v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10703v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10662v1",
-      "title": "Self-bound quantum dark fermion stars: saturation, a coupling-capped maximum mass, and tidal signatures of a vector dark sector",
-      "authors": [
-        "Ilidio Lopes"
-      ],
-      "abstract": "I show that a dark sector whose fermions couple to both a scalar and a vector mediator saturates in close analogy with nuclear matter: the energy per particle develops a minimum at finite density, cold dark matter of this kind is self-bound, and its stars, computed here in full general relativity, possess the sharp surfaces of strange quark stars. Saturation makes the maximum stellar mass a property of the Lagrangian rather than an inheritance of the Chandrasekhar scaling: it rises eightfold across the saturation window, which a critical vector coupling closes, so the theory caps its own maximum mass, at $3.9\\,M_\\odot$ for a fermion of $1\\,\\mathrm{GeV}$ and the fiducial saturation density, a ceiling shared by the whole family of couplings rather than by any single parameter set. Metastable couplings support two disconnected stable families, one dilute and gravitationally bound, the other dense and self-bound. The quantum-pressure correction, confined by saturation to a surface layer a few Compton wavelengths thick, governs the smallest dark nuggets whilst shifting stellar masses by less than one part in $10^{21}$. A $1.4\\,M_\\odot$ member of the fiducial family has a radius of $13.3\\,\\mathrm{km}$, a compactness of $0.155$, and a tidal deformability of $1.6\\times 10^{3}$, almost an order of magnitude above the measured neutron-star value, so at a given particle mass and couplings a single well-measured inspiral distinguishes these stars from neutron stars and from their scalar-only counterparts, whilst the deformability surviving at the maximum mass separates them, in principle, from black holes.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10662v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10662v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10661v1",
-      "title": "Black-hole ringdown at an exceptional point",
-      "authors": [
-        "Kyriakos Destounis"
-      ],
-      "abstract": "Black holes ring in damped oscillations. At an exceptional point, photon-sphere and near-horizon modes merge, and their response can acquire a linear time factor. We compute its amplitude from constrained Einstein-Maxwell data for a rotating, charged black hole in de Sitter space. With seven competing modes fixed, the late-time curvature error is 0.00383$\\%$ for the pair and 0.01401$\\%$ for a refitted exponential. We suppress the linear term by tuning the initial disturbance at fixed geometry. Hence, near coalescence, changing only the initial disturbance can shift the frequency inferred from a short ringdown fit.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10661v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10661v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10572v1",
-      "title": "SMMAN studies of AGN variability. II. Radio and optical quasi-periodic oscillations and changing variability states in the relativistic jet of the blazar PKS 0754+100",
-      "authors": [
-        "Ashutosh Tripathi",
-        "Xin Wang",
-        "Xi Yan",
-        "Paul J. Wiita",
-        "Lang Cui"
-      ],
-      "abstract": "We report the detection of $\\sim$280-day quasi-periodic oscillations (QPOs) in the SMMAN observations of PKS 0754+100 at 4.8 and 23.6 GHz, which may also be present in VLBI observations made at 15 GHz. The onset of a transition of the amplitude of variability in the radio flux density, observed more clearly in the 15 GHz and 23.6 GHz observations, coincides with the detection of a likely QPO of $\\sim$1.4 days in optical observations made by the Transiting Exoplanet Survey Satellite. This transition in radio variability also occurs close in time to the disappearance of the secondary knot in the VLBI radio map during the lower variability state. An X-ray flare was observed 100 days before this transition, suggesting that the mechanisms causing these quasi-periodicities are related. After the transition to a higher variability state, both the 15 and 23.6 GHz light curves exhibit indications of QPOs at $\\sim$400 days. For the first time, a QPO detected in the radio band from a BL Lac has been seen to appear to shift to a QPO of lower frequency, with that transition occurring near the appearance of a QPO in optical emission at a much shorter period. This multi-waveband behavior could be related to the internal helical structure of the jet, where an instability or kink develops due to magnetic reconnection and propagates outward.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10572v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10572v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10525v1",
-      "title": "Polarization Signatures of Magnetic Reconnection Bubbles near Black Holes",
-      "authors": [
-        "Yu-Xiang Huang",
-        "En-Wei Liang"
-      ],
-      "abstract": "Motivated by the observed horizon-scale polarization variability in multi-epoch Event Horizon Telescope (EHT) data, we develop a time-dependent general relativistic polarized ray-tracing framework to study how localized magnetic reconnection near a black hole imprints itself on synchrotron polarization. We model the reconnection phenomenologically as a transient magnetic bubble. While keeping the underlying spacetime, emission prescription, and polarization transport scheme unchanged, the bubble weakens the local ordered field, reorganizes its geometry, induces a conservative local kinematic response, and relaxes through a finite magnetic-memory prescription. We explore how the key bubble parameters control the recovery of the magnetic-field strength, the spatial spreading of the disturbed region, the persistence of the post-reconnection imprint, and the resulting polarization signatures. Perturbations dominated by different magnetic-field components produce distinct polarized morphologies, EVPA evolution, and Stokes-(Q, U) trajectories: azimuthal perturbations favor outward EVPA shifts, radial perturbations favor inward shifts, and vertical perturbations mainly suppress the polarized intensity. For the illustrative M87^*-like cases, the phase evolution of the β_2 polarization coefficient further traces how localized magnetic reconfiguration contributes to the global EVPA twist of the ring. These results show that horizon-scale polarization variability can provide a sensitive diagnostic of localized magnetic restructuring and that the present framework offers a physically transparent way to interpret time-dependent polarimetric signatures in future EHT observations.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10525v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10525v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10431v1",
-      "title": "Faint Thermonuclear Transients from the Double Detonations of Common White Dwarfs",
-      "authors": [
-        "Samuel J. Boos",
-        "Lars Bildsten"
-      ],
-      "abstract": "The double detonation model is a viable channel to explain many observed Type Ia supernovae (SNe Ia), with thin helium shelled white dwarf (WD) progenitors of 0.9--1.1 M$_\\odot$ reproducing normal SNe Ia observables. Recent work has also shown that all C/O WDs $\\leq$ 1.0 M$_\\odot$ can sustain a helium shell detonation that triggers a detonation of the underlying core. As WDs of lower masses (0.5--0.7 M$_\\odot$) far outnumber those at higher mass, it is important to explore their double detonation outcomes. To that end, we conducted multidimensional double detonation simulations of low mass C/O cores with very thin helium shells, finding explosion outcomes that differ non-trivially from those at higher masses. Not surprisingly, their cores are incompletely burned with low yields of radioactive elements. Though still formally unbound in isolation, some of the ejecta could remain bound to a nearby companion. In addition, the offset initiation of the core detonation wave and its failure to burn through the entire core lead to a very asymmetric distribution of $^{56}$Ni that creates dramatically viewing angle-dependent light curves and spectra. We find that the peak bolometric luminosities for the same explosion vary up to nearly 2 magnitudes over the sky, and that the spectra and light curves from these models are within the range of faint SNe Iax. In particular, our 0.50 M$_\\odot$ models agree well with the photometry of SNe Iax 2008ha and 2024vjm.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10431v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10431v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.10428v1",
-      "title": "Current Closure and Gamma-Ray Signatures of Spark-Gap and Current-Sheet Activities in Radiative Black Hole Magnetospheres",
-      "authors": [
-        "Koki Kin",
-        "Shota Kisaka",
-        "Kenji Toma",
-        "John M. Mehlhaff",
-        "Benoît Cerutti"
-      ],
-      "abstract": "We investigate the evolution of an axisymmetric black hole magnetosphere using general relativistic particle-in-cell simulations, focusing on its global current structure, variability, and radiative effects. We include inverse-Compton (IC) scattering of ambient photons and subsequent two-photon pair production, and compare simulations with and without synchrotron-curvature (SC) radiation reaction. Starting from an axisymmetric vertical magnetic field, the system develops a polar spark gap and a variable equatorial current sheet that together sustain the global poloidal current. For the parameters explored in this study, we observe that the spark gap oscillates upon the onset of SC cooling, whereas the current sheet is less sensitive to radiative cooling. Time-dependent electric fields in the return-current layer trigger magnetic-field rearrangement followed by magnetic reconnection. Cross-correlation analysis finds no significant correlation between the two regions' variability, suggesting dynamical independence. We further perform post-processing ray-tracing calculations to evaluate the radiative efficiencies of the IC and SC processes. High-energy particles dominate the bolometric luminosity, which reaches up to 1 percent of the Blandford-Znajek luminosity for SC emission and 0.1 percent for IC emission. The relative IC luminosity to SC is higher at lower viewing angles because particle momenta are more anisotropic near the pole than near the equator, due to efficient acceleration along the local magnetic field lines. Together with energetic estimates, these results suggest that both regions can contribute to high-energy emission in active galactic nuclei, with spark-gap photons reaching the sub-TeV regime.",
-      "published": "2026-11-07",
-      "updated": "2026-11-07",
-      "url": "http://arxiv.org/abs/2611.10428v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.10428v1"
     },
     {
       "source": "arxiv",
