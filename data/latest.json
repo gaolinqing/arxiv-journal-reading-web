@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T06:35:35+00:00",
-  "local_date": "2026-11-14",
+  "generated_at": "2026-11-15T06:43:21+00:00",
+  "local_date": "2026-11-15",
   "time_windows": {
-    "today": "2026-11-14",
+    "today": "2026-11-15",
     "week_days": 7
   },
   "sources": {
@@ -19,7 +19,7 @@
     "prl_fallback": "Disabled by default because Crossref cannot identify the APS PRL section exactly."
   },
   "warnings": [
-    "PRL is manual: APS blocks scripted access (HTTP Error 403: Forbidden). Open the PRL source directly: https://journals.aps.org/prl/recent?toc_section%5B%5D=cosmology-astrophysics-and-gravitation"
+    "PRL is manual: APS blocks scripted access (APS PRL page returned a Cloudflare challenge instead of article HTML.). Open the PRL source directly: https://journals.aps.org/prl/recent?toc_section%5B%5D=cosmology-astrophysics-and-gravitation"
   ],
   "papers": [
     {
@@ -3776,89 +3776,6 @@
       "updated": "2026-11-09",
       "url": "http://arxiv.org/abs/2611.11884v1",
       "pdf_url": "https://arxiv.org/pdf/2611.11884v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.11617v1",
-      "title": "Unveiling a Concentration of Hard X-Ray Point Sources in the Nuclear Stellar Disk with XMM-Newton",
-      "authors": [
-        "Shifra Mandel",
-        "Kaya Mori",
-        "Gabriele Ponti",
-        "Samaresh Mondal",
-        "Charles J. Hailey",
-        "Michael M. Shara",
-        "Tong Bao",
-        "Heshou Zhang",
-        "Mark R. Morris",
-        "JaeSub Hong",
-        "Jonathan Grindlay",
-        "Nicola Locatelli",
-        "Simone Piscitelli"
-      ],
-      "abstract": "The Galactic Center is home to the largest known concentration of X-ray sources ever detected in our Galaxy, including a sizable population of accreting compact objects. Utilizing data from the XMM-Newton Galactic Plane Heritage Survey of the central $20^{\\circ}\\times2^{\\circ}$ of the Milky Way, we investigate the varying source populations in the inner regions of the Galaxy. We identify for the first time a concentration of extremely hard X-ray sources within $|l|<1.3^{\\circ}$ and $|b|<0.3^{\\circ}$, a region that overlaps the nuclear stellar disk (NSD). We determine that this hardness is intrinsic to the sources and not a manifestation of high line-of-sight column density ($N_{\\rm H}$). Unlike the \"soft\" X-ray sources, this population does not trace the stellar mass distribution, indicating an overabundance compared to the underlying stellar population. We simulate spectra for a variety of source types to model their X-ray hardness and compare their distributions to those we observed in our survey data. We find that a significant subset of the Galactic Center X-ray population may comprise intermediate polars (IPs) with massive white dwarfs, possibly formed through dynamical processes. Our study provides novel observational insights into the distribution of stellar remnants and other X-ray sources in the vicinity of our supermassive black hole, Sgr A*.",
-      "published": "2026-11-08",
-      "updated": "2026-11-08",
-      "url": "http://arxiv.org/abs/2611.11617v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.11617v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.11449v1",
-      "title": "Pushing the accuracy of the quasi-circular baseline for the SEOBNR family of models",
-      "authors": [
-        "Cheng Foo",
-        "Alessandra Buonanno",
-        "Héctor Estellés",
-        "Lorenzo Pompili"
-      ],
-      "abstract": "Gravitational-wave observations have opened a new era of astronomy, with accurate modeling of binary black hole signals becoming increasingly important for source characterization and astrophysical inference as detector sensitivities improve. We present SEOBNRv5iHM, an updated quasi-circular, aligned-spin inspiral-merger-ringdown gravitational-waveform model with higher-order modes, constructed within the effective-one-body formalism and building upon SEOBNRv5HM. The improvements mainly concern the late inspiral and the merger-ringdown: we remove the non-quasi-circular corrections used in previous models and instead introduce a phenomenological intermediate region between the inspiral and the ringdown, which allows the ringdown attachment time to be chosen independently for each mode, including at the peak of the mode's amplitude. The model is calibrated and validated against 591 quasi-circular aligned-spin waveforms from the third Simulating eXtreme Spacetimes catalog. For the $(2,2)$ mode, when considering the maximum unfaithfulness against numerical relativity over a total mass range of 10-300$M_\\odot$, SEOBNRv5iHM achieves a median of $4.25\\times10^{-5}$, a factor of 4.5 below SEOBNRv5HM, and a factor of 3-8 below other semi-analytical models, with $84\\%$ of cases below $10^{-4}$. For $M\\ge150 M_\\odot$, the median drops to $9.7\\times10^{-6}$, comparable to the numerical-relativity surrogate NRHybSur3dq8. For polarization mismatches at inclination $π/3$, with modes up to $\\ell_\\mathrm{max} = 5$, the median maximum unfaithfulness is $4.2\\times10^{-4}$, a factor of 2.6 below SEOBNRv5HM, 1.9 below IMRPhenomTHM, and 6-11 below the other semi-analytical models. Since spin-precessing and eccentric models are built on top of the quasi-circular, aligned-spin baseline, these improvements will make future SEOBNR models more accurate, reducing waveform systematics in upcoming analyses.",
-      "published": "2026-11-08",
-      "updated": "2026-11-08",
-      "url": "http://arxiv.org/abs/2611.11449v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.11449v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.11351v1",
-      "title": "The Fate of Collisional Neutrino Flavor Conversion: Fixed Points, Period Doubling, and Chaos",
-      "authors": [
-        "Jiabao Liu",
-        "Lucas Johns",
-        "Hiroki Nagakura"
-      ],
-      "abstract": "Core-collapse supernovae and neutron star mergers are among the most energetic astrophysical events and promising sources of multimessenger signals. Their dynamics and nucleosynthesis depend sensitively on neutrino transport, yet the impact of neutrino flavor evolution in these dense environments remains poorly understood. Predicting the outcome of collisional flavor instability (CFI) remains a challenge, despite progress in local-relaxation methods for fast flavor conversion. Here we construct homogeneous collective-precession states with stationary flavor populations in two-flavor quantum kinetics with collisional relaxation. The method applies to arbitrary energy spectra and energy-dependent collision rates. Our numerical examples exhibit persistent oscillations and a period-doubling route to chaos. Even in these regimes, the stationary populations estimate the time-averaged flavor populations to within $10\\%$ in our tests. These fixed points provide a physically motivated input for incorporating CFI into astrophysical simulations, with implications for neutrino heating and ejecta nucleosynthesis.",
-      "published": "2026-11-08",
-      "updated": "2026-11-08",
-      "url": "http://arxiv.org/abs/2611.11351v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.11351v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.11157v1",
-      "title": "Adaptive Quantum Metrology of Gravitational Waves",
-      "authors": [
-        "Wan-Ting He",
-        "Shuang-Quan Ma",
-        "Ke-Mi Xu"
-      ],
-      "abstract": "We develop a feedback-controlled quantum metrology scheme to probe weak gravitational waves (GWs) through their direct energy exchange with light. Adaptive SU(2) direction control, based on current estimates of the GW frequency and phase, allows the frequency shifts acquired in successive interaction intervals to add rather than cancel. The resulting persistent frequency difference is converted into an optical phase difference for interferometric readout. We further extend the scheme to elliptically polarized GWs using two transverse sensing channels separated by $45^\\circ$ to probe the $+$ and $\\times$ components independently. After the GW interaction, the two signals are mapped onto orthogonal polarization modes, enabling phase accumulation along a common path. We derive the corresponding quantum Fisher information matrix and find a $T_{\\rm int}^2T_{\\rm ph}^2$ scaling in the ideal coherent regime. For a fixed-photon-number probe, the sensitivity shows Heisenberg-like $1/n$ scaling in the ideal case.",
-      "published": "2026-11-08",
-      "updated": "2026-11-08",
-      "url": "http://arxiv.org/abs/2611.11157v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.11157v1"
     },
     {
       "source": "arxiv",
