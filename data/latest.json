@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T07:18:27+00:00",
-  "local_date": "2026-11-21",
+  "generated_at": "2026-11-22T06:59:28+00:00",
+  "local_date": "2026-11-22",
   "time_windows": {
-    "today": "2026-11-21",
+    "today": "2026-11-22",
     "week_days": 7
   },
   "sources": {
@@ -2821,118 +2821,6 @@
       "updated": "2026-11-16",
       "url": "http://arxiv.org/abs/2611.20418v1",
       "pdf_url": "https://arxiv.org/pdf/2611.20418v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.20091v1",
-      "title": "The rise and fall of 1A 1118-61: First evidence for frequency hysteresis of quasi-periodic oscillations in an X-ray pulsar",
-      "authors": [
-        "Alexander Salganik",
-        "Sergey S. Tsygankov",
-        "Sergey V. Molkov",
-        "Hua Xiao",
-        "Lingda Kong",
-        "QingChang Zhao",
-        "Long Ji",
-        "Alexander A. Mushtukov",
-        "Igor Yu. Lapshov",
-        "Alexander A. Lutovinov",
-        "Alexey Yu. Tkachenko",
-        "Hua Feng",
-        "Shuang-Nan Zhang",
-        "Xiao-Bo Li",
-        "Shu Zhang",
-        "Juri Poutanen"
-      ],
-      "abstract": "Context. Quasi-periodic oscillations (QPOs) are commonly observed in accreting X-ray pulsars (XRPs), but the physical mechanisms governing their frequency evolution remain poorly understood. Aims. We investigate the evolution of the QPO during the 2026 outburst of the Be/X-ray pulsar 1A 1118-61, focusing on its frequency-luminosity relation during the rising and declining phases of the outburst. Methods. We analyzed X-ray timing and spectral observations obtained with SRG/ART-XC, NuSTAR, and Insight-HXMT. We measured QPO centroid frequencies and amplitudes, compared their evolution during the rising and declining phases of the outburst, and examined the associated changes in the X-ray spectral shape. Results. We detected a prominent QPO with a centroid frequency ranging from approximately 37 to 114 mHz. Its frequency-luminosity relation follows two distinct branches, with QPO frequencies approximately 35% higher during the rise than during the decline at the same luminosity. The frequency evolution along both branches is consistent with Keplerian motion near the inner disk edge. The X-ray spectral shape also follows different evolutionary tracks during the rising and declining phases. Conclusions. We report the first evidence for QPO frequency hysteresis in an XRP. The observed separation between the rising and declining branches suggests that the characteristic timescale of the QPO depends not only on the instantaneous luminosity but also on the accretion history. We discuss possible implications for the disk-magnetosphere interaction.",
-      "published": "2026-11-15",
-      "updated": "2026-11-15",
-      "url": "http://arxiv.org/abs/2611.20091v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.20091v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.19989v1",
-      "title": "Large-Scale Cosmic-Ray Anisotropy in the TeV Regime: Peak Observables and a Propagation-Model Interpretation",
-      "authors": [
-        "Hao-Kun Chen",
-        "Xu-Lin Dong",
-        "Qi-Ling Chen",
-        "Shu-Wang Cui",
-        "Yi-Qing Guo"
-      ],
-      "abstract": "In recent years, cosmic-ray observations have entered a stage of high-precision measurements, but the phases of large-scale anisotropy reported by different experiments differ significantly, partly because the first harmonic cannot fully describe non-dipolar structures. In this work, we process the one-dimensional relative-intensity distributions from ARGO-YBJ, Tibet AS$γ$, and HAWC using a unified procedure, perform multi-harmonic fits, and reconstruct the distributions, with the global maximum of each distribution used to define the peak amplitude $A_{\\max}$ and the peak right ascension $α_{\\max}$. The results show that, in the common energy range of 11--22~TeV covered by the three experiments, the range of the published first-harmonic phases is $22.6^\\circ$, whereas the range of $α_{\\max}$ is reduced to $7.5^\\circ$; $α_{\\max}$ evolves overall from $60^\\circ$--$70^\\circ$ at the low-energy end to $250^\\circ$--$300^\\circ$ at the high-energy end, while $A_{\\max}$ exhibits a local minimum and $α_{\\max}$ changes rapidly in the phase-flip region. At the low-energy end, $α_{\\max}$ lies between the right-ascension projections of the direction toward the Geminga supernova remnant and the direction of the local interstellar magnetic field. Accordingly, we construct a spatially dependent propagation model that includes Galactic background sources, a Geminga-related nearby source, and anisotropic diffusion along the direction of the local interstellar magnetic field. Within a unified framework, the model reproduces the energy spectra of P, He, C, O, and Fe, as well as the energy evolution of $A_{\\max}$ and $α_{\\max}$, providing a self-consistent explanation for the origin of large-scale anisotropy in the TeV to tens-of-TeV energy range.",
-      "published": "2026-11-15",
-      "updated": "2026-11-15",
-      "url": "http://arxiv.org/abs/2611.19989v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.19989v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.19906v1",
-      "title": "Magnetic fields in blazar jets derived from synchrotron self-absorption",
-      "authors": [
-        "Hubing Xiao",
-        "Junhang Liu",
-        "Shaopu Wang",
-        "Jianghe Yang",
-        "Zhihao Ouyang",
-        "Minfeng Gu",
-        "Shaohua Zhang",
-        "Zhijian Luo",
-        "Junhui Fan"
-      ],
-      "abstract": "Context. Magnetic fields are believed to play a crucial role in the launching, acceleration, and evolution of blazar jets. However, direct measurements of the magnetic field strength in the radio-emitting regions of blazar jets remain limited. Aims. We aim to estimate the magnetic field strengths in the synchrotron self-absorption (SSA) regions of blazar jets and investigate their connections with the properties of the jet and central engine. Methods. We compiled multifrequency radio data for 143 blazars and fitted their radio spectra with a combined power-law and SSA model to derive the turnover frequency and turnover flux density. The magnetic field strengths were then calculated by combining the SSA parameters with the very long baseline interferometry (VLBI) measured angular sizes and Doppler factors compiled from the literature. Results. The SSA-derived magnetic fields are systematically lower than those obtained from broadband spectral energy distribution modeling, suggesting that the two methods probe different regions of the jet. We further investigated the correlations between the SSA magnetic field strength and the apparent knot speed, γ-ray luminosity, black hole mass, and accretion disk luminosity. Only a weak correlation is found between the SSA magnetic field strength and γ-ray luminosity, while the best-fit relations with the other investigated parameters also exhibit negative slopes, suggesting a common tendency that is qualitatively consistent with magnetic energy being progressively converted into bulk kinetic energy during jet propagation. Conclusions. Our work presents a large statistical studies of SSA-derived magnetic fields in blazars and provides new observational constraints on the magnetic evolution of relativistic jets.",
-      "published": "2026-11-15",
-      "updated": "2026-11-15",
-      "url": "http://arxiv.org/abs/2611.19906v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.19906v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.19867v1",
-      "title": "Stripped White Dwarfs as Spectroscopic Clocks: Abundance Transitions in Partial Tidal Disruptions",
-      "authors": [
-        "Taylor Yi-Ching Chong",
-        "Jin-Hong Chen",
-        "Lixin Dai"
-      ],
-      "abstract": "We investigate partial tidal disruptions of He and CO white dwarfs (WDs) by a $10^{4}\\,M_{\\odot}$ intermediate-mass black hole (IMBH) using three-dimensional hydrodynamic simulations. We construct realistic WD structures and abundance profiles with MESA and map them into FLASH to follow the remnant response and the time-dependent composition of the fallback debris in single pericentre passages on tightly bound orbits ($e=0.9$). The element-specific fallback rates exhibit pre-peak compositional transitions that trace the WD's stratified layers. In the grazing encounter ($β=0.55$), hydrogen dominates the earliest returning debris, followed by helium, showing a H$\\rightarrow$He transition. Deeper encounters ($β=0.7$ and $0.8$) penetrate the CO core and produce a He$\\rightarrow$C transition, that occurs earlier relative to peak fallback and is stronger in the deeper encounter. These signatures provide a potential spectroscopic diagnostic for identifying CO-WD tidal disruption events (TDEs). We then develop a semi-analytic model for repeated tidal stripping and predict passage-to-passage compositional evolution, in which the stripped material becomes progressively enriched in heavier elements as deeper layers are exposed, leading to stronger and earlier abundance transitions in later flares. We find that WDs can survive several dozen ($\\sim 30$-$80$) passages, depending on their initial mass and compactness. Our results link time-dependent abundance signatures to repeating WD disruptions and provide testable observable predictions for identifying IMBH-powered transients.",
-      "published": "2026-11-15",
-      "updated": "2026-11-15",
-      "url": "http://arxiv.org/abs/2611.19867v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.19867v1"
-    },
-    {
-      "source": "arxiv",
-      "source_label": "arXiv astro-ph.HE",
-      "category": "astro-ph.HE",
-      "source_url": "https://arxiv.org/list/astro-ph.HE/recent",
-      "id": "arXiv:2611.19811v1",
-      "title": "Polarization of Fast Radio Bursts due to Propagation in Magnetized Plasma",
-      "authors": [
-        "Wei-Yang Wang",
-        "Xiaohui Liu",
-        "Nan Xu",
-        "Songyu Shen"
-      ],
-      "abstract": "Polarization measurements of radio transients, particularly their frequency dependence, shed light on the magnetic environments of these sources. We extend the analytical solution of radiative transfer of the polarization properties of such transients to both a cold magnetized plasmas beyond the high-frequency approximation and a relativistic plasma with synchrotron emission. The Faraday mixing coefficients are enhanced makes Stokes parameters $Q$, $U$, and $V$ to exhibit a more rapid and complex frequency-dependent evolution. A relativistic plasma medium can also generate both Faraday roataion and conversion with a smaller magnetic field. The relativistic plasma is investigated as a persistent radio source (PRS) associated with FRB, and it is found that, although the observed PRS luminosity can be accounted for, an FRB can propagate out only under certain special parameter conditions. We apply the model to fit the polarization profile of GPM J1839$-$10 and revisit some FRBs. All sources with Faraday conversion require that the environment's magnetic field not exceed 100~G. The magnetic field of FRB 20180301A and GPM J1839$-$10 are almost perpendicular to the light of sight for at least some times.",
-      "published": "2026-11-15",
-      "updated": "2026-11-15",
-      "url": "http://arxiv.org/abs/2611.19811v1",
-      "pdf_url": "https://arxiv.org/pdf/2611.19811v1"
     },
     {
       "source": "arxiv",
